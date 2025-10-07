@@ -267,21 +267,24 @@ interface AmourApiService {
 <div align="center">
 
 ### Authentication Flow
-<img src="https://github.com/user-attachments/assets/92519482-76fa-4aa7-821c-b1998d0339fc" width="250">
-<img src="https://github.com/user-attachments/assets/89fe2f98-37a8-4114-9c1f-07187a700b4f" width="250">
-<img src="https://github.com/user-attachments/assets/f84f9343-0343-40d4-8f6a-059b68d81aaf" width="250">
 
 ### Location Services
-<img src="https://github.com/user-attachments/assets/1e26554a-d8a9-4189-83d7-098b459d7584" width="300">
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/9db5776d-c135-4ec1-97a0-2bf5f4808b70" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/ee566b83-5434-48cd-a729-ec451484c635" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/89139568-37be-48a9-8448-1cdcdf1a6d7a" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/a895e8e1-20a3-440c-927b-feff4c8c25a5" />
+
 
 ### Matching Interface
-<img src="https://github.com/user-attachments/assets/b72fc7d0-a7de-4392-9fa4-7b9bc3bbf8b6" width="250">
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/98ed1de8-66ae-441e-9443-c0c61c77a41d" />
 
 ### Real-time Chat
-<img src="https://via.placeholder.com/300x600/FFFFFF/000000?text=Messages" width="250">
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/664fd361-f2de-4c18-9c06-0b1a8ac8f7dd" />
 
 ### User Settings
-<img src="https://github.com/user-attachments/assets/fadecd4e-7c1a-4041-9e6b-5332996b8a9b" width="250">
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/1681aa32-ed5d-4741-bdf1-46f87803c27a" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/4c2afd3a-7d39-4d4b-8c3b-0e93be756561" />
+<img width="540" height="1170" alt="image" src="https://github.com/user-attachments/assets/5eaa7d0c-3db2-4cba-9053-a6024bce7a82" />
 
 </div>
 
